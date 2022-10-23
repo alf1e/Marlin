@@ -557,7 +557,6 @@
 
 // Some coolers may require a non-zero "off" state.
 //#define FAN_OFF_PWM  1
-
 /**
  * PWM Fan Scaling
  *
